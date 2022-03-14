@@ -202,3 +202,19 @@ footer{
 footer p{
     margin: 0;
 }
+/*  --------- active status*/
+.head-top button:hover{
+    color: #808d99;
+}
+.free-btn:hover,.gs-free-btn:hover{
+    background-color: #f18acc;
+}
+.plink p:hover{
+    cursor: pointer;
+    text-decoration: underline white;
+    
+}
+.fab:hover{
+    color: #ff52bf;
+    border: 1px solid #ff52bf;
+}
