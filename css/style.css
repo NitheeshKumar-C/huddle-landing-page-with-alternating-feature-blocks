@@ -63,6 +63,8 @@ h1,h2,h3{
     border-radius: 50px;
     margin-top: 3%;
     font-size: 1rem;
+    box-shadow: 2px 5px 10px 2px rgb(0 37 46 / 16%);
+
     
 }
 .col-lg-6{
@@ -202,7 +204,8 @@ footer{
 footer p{
     margin: 0;
 }
-/*  --------- active status*/
+
+/* active state */
 .head-top button:hover{
     color: #808d99;
 }
