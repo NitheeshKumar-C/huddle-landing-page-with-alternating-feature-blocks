@@ -1,0 +1,109 @@
+@media (max-width:1460px){
+    .head-intro h1{
+        font-size: 2.2rem;
+    }
+    .head-intro p{
+        font-size: 1.2rem;
+    }
+}
+@media (max-width:992px){
+    .head-intro h1{
+        font-size: 1.5rem;
+    }
+    .head-intro p{
+        font-size: 1rem;
+    }
+}
+@media (max-width:768px){
+    .bg-hero-mobile{
+        display: inline;
+    }
+    .bg-hero-desktop{
+        display: none;
+    }
+    .logo{
+        width: 7rem;
+        margin: auto;
+    }
+    .head-top button{
+        padding: 5px 1rem;
+        font-size: 1rem;
+    }
+    .head-intro{
+        margin: 10% 0;
+        text-align: center;
+    }
+    
+    .head-intro h1,.head-intro p{
+        margin: 0;
+        padding: 0;
+    }
+    .head-intro h1{
+        margin:10% 0;
+    }
+    .head-intro p{
+        margin: 5% 0;
+    }
+    .im{
+        margin-top: 10%;
+    }
+    .benifits{
+        margin: 15% 0;
+    }
+    .benifits *{
+        margin: 0;
+        padding: 0;
+    }
+    .benifits img{
+        order: 1;
+        width: 70%;
+        
+    }
+    .b-img{
+        margin: 10% 0;
+        text-align: center;
+    }
+    .benifits .benifits-content{
+        order: 2;
+    }
+    .bh{
+        margin: 20px 0 0 0;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .bp{
+        text-align: center;
+        font-size: 1rem;
+        padding: 20px;
+    }
+    .gs{
+        top: 3rem;
+        width: 90%;
+    }
+    .gs h3{
+        
+        /* margin: 0 3%; */
+        font-size: 1rem;
+    }
+    .gs-free-btn{
+        padding: 10px 15px;
+        font-size: 0.8rem;
+    }
+    .fh{
+        margin-top: 5rem;
+    }
+    .fh img{
+        width: 50%;
+    }
+    .fb .col-12{
+        margin-top: 10%;
+    }
+    .sm{
+        justify-content: center;
+        margin-top: 3%;
+    }
+    .f-copyright p{
+        float: none;
+        text-align: center;
+    }
+}
