@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/css-grid-and-flexbox-LirNakikr)
 - [Live Site](https://nitheeshkumar-c.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
